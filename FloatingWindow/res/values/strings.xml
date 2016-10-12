@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FloatingWindow</string>
+    <string name="btn">启动悬浮窗口</string>
+    <string name="floating">悬浮窗口</string>
+    <string name="stop">移除悬浮窗口</string>
+
+</resources>
