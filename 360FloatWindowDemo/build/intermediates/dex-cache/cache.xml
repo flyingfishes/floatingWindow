@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_60daca41f499c41f4dc2089882491b413ae9e6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_909ec11f8051e325c5c7f0bd1e4a03e0c00b23ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_902d071331abc37799f961101715746cad2b01d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_1a8e4255a79669abfa9b3047eb63e2d63291cd4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android-sdk-windows-1.5_r3\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_8c07f97be887aa2548b2f5c9ebf3e48d4c148a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\Hi3798\360FloatWindowDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_251d0f2b8698c0e28faf9afb32e6eff6e3975c6f.jar" />
+    </item>
+
+</items>
